@@ -28,8 +28,8 @@ To get started with this Project Management Tool, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/project-management-tool.git
-   cd project-management-tool
+   git clone https://github.com/samyak-aditya/Project_Management_Tool.git
+   cd Project-Management-Tool
    ```
 
 2. **Install Dependencies**
